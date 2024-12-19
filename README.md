@@ -30,7 +30,8 @@ Where could I enhance the code:
 I think there are a a few areas for improvements and enhancements. The first is adding in some form of input validation.
 Validating the user input would make it much better and would help to prevent runtime errors. Refactoring the repeated code would 
 also be a good enhancement. Adding helper functions would get rid of some redundant code. Also taking into account large numbers and 
-altering the code for this would also enhance it as it would help resolve any potential overflows.
+altering the code for this would also enhance it as it would help resolve any potential overflows. Also adding more of an industry standard comment format 
+I think would enhance the code as well, this way it's a bit easier for others to understand a bit better what the code is doing.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
