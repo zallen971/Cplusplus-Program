@@ -1,5 +1,7 @@
 Problem Statement:
+
 The task was to create two clocks that meets the international standard ISO 8601, one in 12hr format and the other in 24hr format rather than just the standard 12-hour clock that can be displayed on a website. 
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirements:
@@ -14,5 +16,6 @@ There is a menu option that displayes to allow the user to interact with the pro
 4 - Exit Program
 
 Once the user enters their choice, the program takes the appropriate action based on that choice.
+
 -------------------------------------------------------------------------------------------------------------------------------
 
