@@ -9,7 +9,7 @@ The 12hr Clock: The time is displayed in 12-hour format where the clock doesn't 
 The 24hr Clock: The time is displayed in 24-hour format where the clock doesn't exceed 23:59:59
 Both of the clocks are displayed on the screen at the same time with the current time in the proper format.
 
-There is a menu option that displayes to allow the user to interact with the program.
+There is a menu option that displays to allow the user to interact with the program.
 1 - Add One Hour
 2 - Add One Minute
 3 - Add One Second
