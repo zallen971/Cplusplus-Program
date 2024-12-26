@@ -8,13 +8,15 @@ Requirements:
 
 The program needed the following functional requirements:
 
-Menu Option One:
+
+**Menu Option One:**
 
 1. Prompt a user to input the item, or word, they wish to look for.
 2. Return a numeric value for the frequency of the specific word.
 
 
-Menu Option Two:
+
+**Menu Option Two:**
 
 1. Print the list with numbers that represent the frequency of all items purchased.
    EX: Potatoes 4
@@ -22,7 +24,7 @@ Menu Option Two:
        Onions 3
 
 
-Menu Option Three:
+**Menu Option Three:**
 
 1. Print the same frequency information for all the items in the form of a histogram.
 2. Then print the name, followed by asterisks or another special character to represent the numeric amount.
@@ -31,7 +33,8 @@ Menu Option Three:
        Onions ***
 
 
-Menu Option Four:
+
+**Menu Option Four:**
 
 1. Exit the program.
 
