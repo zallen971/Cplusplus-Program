@@ -6,7 +6,8 @@ Problem Statement: The task was to create two clocks that meets the internationa
 Project 2
 This project was to create an application that would allow users to see how their investments will grow over time. It was meant to allow users to visualize their investmants.
 
-The problem I was solving with this project was allowing people to get a prediction on the growth of their investments. It gives them a tool that they can use and can give them the ability to make informed decisions with contributing to their investments, 401k, or other retirement fund.
+The problem that was solved was allowing people to get a prediction on the growth of their investments. It gave them a tool that they can use and can give them the ability to make informaed decisions with contributing to their investments, 401k, or other retirement funds/.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project 3
