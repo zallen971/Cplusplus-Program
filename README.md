@@ -1,6 +1,7 @@
 **Project 1**
+
 Problem Statement:
-The task was to create two clocks that meets the international standard ISO 8601, one in 12hr format and the other in 24hr format rather than just the standard 12-hour clock that can be displayed on a website. 
+The task was to create two clocks that meets the international standard ISO 8601. One in 12hr format and the other in 24hr format rather than just the standard 12-hour clock. These two clocks are able to be displayed on a website.
 -------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirements:
@@ -19,6 +20,7 @@ Once the user enters their choice, the program takes the appropriate action base
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 2**
+
 Summary: 
 
 This project was to create an application that would allow users to see how their investments
@@ -70,6 +72,7 @@ future projects as it will help me have knowledge on user-friendly applications 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Project 3**
+
 Problem Statement:
 The task was to build an item-tracking program. The program needs to analyze text records a company generates throughout the day. These records list items purchased in chronological order from the time the store opens to the time it closes. The company is interested in rearranging their produce section and need to know how often items are purchased so they can create the most effective layout for their customers.
 
